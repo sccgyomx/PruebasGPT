@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "pruebasgpt"
+version = "0.1.0"
+description = "Pruebas de concepto con GPT"
+authors = ["sccgyomx <sccgyo@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
